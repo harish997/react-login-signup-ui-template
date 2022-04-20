@@ -7,7 +7,7 @@ export default class SignUp extends Component {
                 <h3>Sign Up</h3>
 
                 <div className="form-group">
-                    <label>First name</label>
+                    <label>First lastname</label>
                     <input type="text" className="form-control" placeholder="First name" />
                 </div>
 
